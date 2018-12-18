@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React Native App](https://facebook.github.io/react-native/).
 
 ## React Native/REDUX Training Applications
 
